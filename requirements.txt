@@ -1,0 +1,10 @@
+pandas==2.2.2
+numpy==1.26.4
+nltk==3.9.1
+yfinance==0.2.49
+matplotlib==3.8.0
+scikit-learn==1.5.2
+xgboost==2.1.2
+transformers==4.46.2
+regex==2024.9.11
+a
